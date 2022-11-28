@@ -15,7 +15,7 @@ O(log(n))
 ## 3) Time Complexity
 Baz alınan sayı 18'dir ve 18 sayısı da ortada yer aldığı için bu bir Average case'dir.
 
-## Selection Sort'a göre ilk 4 adımın yazılması
+## 4) Selection Sort'a göre ilk 4 adımın yazılması
 
 [7,3,5,8,2,9,4,15,6] 
 
