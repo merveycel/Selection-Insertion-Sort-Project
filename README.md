@@ -24,4 +24,4 @@ Baz alınan sayı 18'dir ve 18 sayısı da ortada yer aldığı için bu bir Ave
 * 2. Adım [2,3,````4````,8,7,9,5,15,6]
 * 4. Adım [2,3,4,````5````,7,9,8,15,6]
 ---
-www.patika.dev
+www.patika.devw
